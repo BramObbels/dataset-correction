@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<IMAGE WIDTH="400" HEIGHT="604" COLOR="TRUE">
+	<hand>
+		<FeaturePoint type="Knuckle1" category="MiddleFinger" y="217" x="250"/>
+		<FeaturePoint type="Knuckle2" category="MiddleFinger" y="197" x="247"/>
+		<FeaturePoint type="Knuckle3" category="MiddleFinger" y="184" x="245"/>
+	</hand>
+	<hand/>
+</IMAGE>

@@ -1,0 +1,22 @@
+<IMAGE WIDTH="400" HEIGHT="604" COLOR="TRUE">
+	<hand>
+		<FeaturePoint x="223" y="278" category="Wrist" type="WristThumb"/>
+		<FeaturePoint x="174" y="289" category="Wrist" type="WristPinky"/>
+		<FeaturePoint x="228" y="224" category="Thumb" type="Knuckle1"/>
+		<FeaturePoint x="226" y="194" category="Thumb" type="Knuckle2"/>
+		<FeaturePoint x="202" y="181" category="Thumb" type="Fingertip"/>
+		<FeaturePoint x="206" y="164" category="IndexFinger" type="Knuckle2"/>
+		<FeaturePoint x="205" y="141" category="IndexFinger" type="Knuckle3"/>
+		<FeaturePoint x="201" y="120" category="IndexFinger" type="Fingertip"/>
+		<FeaturePoint x="192" y="176" category="MiddleFinger" type="Knuckle2"/>
+		<FeaturePoint x="212" y="215" category="MiddleFinger" type="Fingertip"/>
+		<FeaturePoint x="181" y="190" category="RingFinger" type="Knuckle2"/>
+		<FeaturePoint x="197" y="211" category="RingFinger" type="Knuckle3"/>
+		<FeaturePoint x="197" y="230" category="RingFinger" type="Fingertip"/>
+		<FeaturePoint x="159" y="222" category="Pinky" type="Knuckle1"/>
+		<FeaturePoint x="169" y="202" category="Pinky" type="Knuckle2"/>
+		<FeaturePoint x="183" y="217" category="Pinky" type="Knuckle3"/>
+		<FeaturePoint x="183" y="233" category="Pinky" type="Fingertip"/>
+	</hand>
+	<hand/>
+</IMAGE>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<IMAGE WIDTH="400" HEIGHT="604" COLOR="TRUE">
+	<hand>
+		<FeaturePoint type="Knuckle3" category="IndexFinger" y="237" x="244"/>
+		<FeaturePoint type="Fingertip" category="IndexFinger" y="242" x="245"/>
+		<FeaturePoint type="Knuckle3" category="MiddleFinger" y="248" x="232"/>
+		<FeaturePoint type="Fingertip" category="MiddleFinger" y="252" x="235"/>
+		<FeaturePoint type="Knuckle3" category="RingFinger" y="255" x="219"/>
+		<FeaturePoint type="Fingertip" category="RingFinger" y="260" x="221"/>
+		<FeaturePoint type="Knuckle3" category="Pinky" y="259" x="203"/>
+		<FeaturePoint type="Fingertip" category="Pinky" y="263" x="206"/>
+	</hand>
+	<hand/>
+</IMAGE>
